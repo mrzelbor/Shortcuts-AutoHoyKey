@@ -1,4 +1,4 @@
-# Shortcuts-AutoHoyKey
+# Shortcuts-AutoHotKey
 In this repo there are three files.
 
 1.- Shortcuts not blocked.txt - Shows which shortcuts are not blocked in the program.
